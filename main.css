@@ -45,6 +45,10 @@ align-items: center;
 	float: right;
 	margin-right: 20px;
 	margin-top: 20px;
+	
+background: linear-gradient(156.85deg, rgba(217, 217, 217, 0.4) 2.99%, rgba(217, 217, 217, 0.1) 97.76%);
+box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);
+border-radius: 100px;
 }
 .objnav{
 width: 425px;
