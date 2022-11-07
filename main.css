@@ -3,7 +3,7 @@ body{
 	padding: 0;
 	margin: 0;
 	background-color: #ffffff;
-	background: linear-gradient(107.54deg, #23379A -2.16%, #F1F1F1 110.23%);
+	background: linear-gradient(107.54deg, #1d2e81 -2.16%, #F1F1F1 110.23%);
 	min-height: 969px;
 }
 
@@ -19,7 +19,7 @@ height: 850px;
 left: 57px;
 top: 100px;
 
-background: linear-gradient(187.02deg, #00318f -73.55%, rgba(0, 0, 0, 0) 96.53%);
+background: linear-gradient(187.02deg, #001c50 -73.55%, rgba(0, 0, 0, 0) 96.53%);
 background-blend-mode: multiply;
 mix-blend-mode: normal;
 border: 1px solid #000000;
@@ -29,26 +29,34 @@ text-align: center;
 align-items: center;
 }
 .logonav{
-	margin-top: 20px;
+	margin-top: -2.8px;
+    margin-left: -3px;
 	width: 200px;
 	height: 200px;
 	border: 3px solid #000000;
-	border-radius: 150px;
+	border-radius: 1000px;
 	mix-blend-mode: darken;
 }
 .logo{
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	border: 3px solid #000000;
 	border-radius: 200px;
 	mix-blend-mode: darken;
 	float: right;
 	margin-right: 20px;
 	margin-top: 20px;
-	
+}
+.logobox{
+width: 200px;
+height: 200px;
+text-align: center;
 background: linear-gradient(156.85deg, rgba(217, 217, 217, 0.4) 2.99%, rgba(217, 217, 217, 0.1) 97.76%);
-box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);
-border-radius: 100px;
+/*box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);*/
+border-radius: 200px;
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
 }
 .objnav{
 width: 425px;
@@ -58,6 +66,6 @@ top: 358px;
 margin:auto;
 margin-top: 30px;
 background: linear-gradient(156.85deg, rgba(217, 217, 217, 0.4) 2.99%, rgba(217, 217, 217, 0.1) 97.76%);
-box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);
+/*box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);*/
 border-radius: 20px;
 }
