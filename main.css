@@ -69,3 +69,50 @@ background: linear-gradient(156.85deg, rgba(217, 217, 217, 0.4) 2.99%, rgba(217,
 /*box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);*/
 border-radius: 20px;
 }
+
+.mainobj{
+position: absolute;
+width: 350px;
+height: 373px;
+left: 728px;
+top: 576px;
+background: linear-gradient(156.85deg, rgba(217, 217, 217, 0.4) 2.99%, rgba(217, 217, 217, 0.1) 97.76%);
+box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);
+border-radius: 20px;
+}
+
+.txtmain{
+    width: 300px;
+    height: 100px;
+    left: 800px;
+    top: 780px;
+    margin-left: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #F9F9F9;
+    margin-top: 15px
+}
+.logoobj{
+width: 150px;
+height: 150px;
+text-align: center;
+background: linear-gradient(156.85deg, rgba(217, 217, 217, 0.4) 2.99%, rgba(217, 217, 217, 0.1) 97.76%);
+/*box-shadow: 29px 8px 39px rgba(184, 184, 184, 0.31);*/
+mix-blend-mode: darken;
+margin-top: 20px;
+margin-left: 25px;
+}
+
+.oimg{
+	width: 200px;
+    margin: auto;
+    margin-top: 15px;
+    height: 200px;
+    padding-bottom: 0;
+    border: 5px solid #000000;
+    border-radius: 200px;
+   }
